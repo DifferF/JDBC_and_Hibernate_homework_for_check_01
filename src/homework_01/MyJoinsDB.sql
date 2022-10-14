@@ -16,7 +16,7 @@ CREATE TABLE MyJoinsDB.Task_06
     PRIMARY KEY (id)
 
 );
-drop table MyJoinsDB.Task_06;
+-- drop table MyJoinsDB.Task_06;
 
 /*
 Задание 4+
